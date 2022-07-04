@@ -21,3 +21,23 @@ ol{
     text-align: center;
     list-style: inside;
 }
+
+header{
+
+    background-color: black;
+
+}
+
+header h1{
+
+    color: white;
+
+}
+
+header img{
+
+    border-radius: 150px;
+    width: 250px;
+    border: 12px solid rgb(124, 94, 50);
+
+}
